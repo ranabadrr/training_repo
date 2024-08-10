@@ -21,7 +21,7 @@ MIA Training 24/25 Tasks
 ---
 
 ### Task 3: [TinkerCAD Projects]
-- `Tinkercad_links.txt` - Tinkercad projects for arduino connected to different sensors
+- `TinkerCad.txt` - Tinkercad projects links for arduino connected to different sensors
 ---
 
 ### Task 4: [Machine Learning ]
