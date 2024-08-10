@@ -41,4 +41,4 @@ the two slaves.
 - `Hbridge_PCB_Project.zip` - Hbridge PCB to control direction of 12V ,3A DC motor
 ---
 ### Task 7: [Linux ]
-- 'Hbridge_PCB_Project.zip' - basic Linux commands
+- `linux.md` - basic Linux commands
