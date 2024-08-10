@@ -7,52 +7,52 @@ After practicing various Linux commands, here is a summary of the most frequentl
 ## `ls` 
 Lists directory contents , without any arguments will give us an output with all the files and directories in the directory.
 
-##`ls -a`
+## `ls -a`
 List all files, including hidden files
 
-##`ls -l`
+## `ls -l`
 List the contents of the current directory in long format (view permissions)
 
 ## `cd`
 change current working directory 
 
-##`cd . .`
+## `cd . .`
 Change to the parent directory
 
-##`pwd` 
+## `pwd` 
 prints the current working directory
 
-##`mkdir` (make directory)
+## `mkdir` (make directory)
 create a new directory
 
-##`rm` 
+## `rm` 
 removes files 
 
-##`rm -r`
+## `rm -r`
 remove directory
 
-##`cp` 
+## `cp` 
 copy files
 
-##`cp -r`
+## `cp -r`
 copy directory
 
-##`mv` 
+## `mv` 
 used to move files or directories.
 
-##`cat` 
+## `cat` 
 used to display the contents of a file or to concatenate multiple files into a single output.
 
-##`nano`
+## `nano`
 a text editor that can be used to create and edit files.
 
-##`clear`
+## `clear`
 clear the terminal screen
 
-##`man` 
+## `man` 
  display the manual page for a specific command
 
-##`chmod`
+## `chmod`
 used to change the permissions of a file or directory
 
 **Permission Types:**
