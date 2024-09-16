@@ -8,3 +8,8 @@ Keras/TensorFlow is highly optimized for performance and can leverage GPU/TPU ha
 
 ## **Flexibility:**
 Keras/TensorFlow offers more flexibility for rapid experimentation with different layers, optimizers, and loss functions. while from-scratch code is better suited for learning and small experiments.
+
+# **MNIST DATASET Notebooks** 
+- [CNN model](https://colab.research.google.com/drive/1PFayqI0usNnvqJsmxq2prffhdd0a0V25?usp=sharing)
+- [Multi Layer Perceptron model](https://colab.research.google.com/drive/19MfRpBI3GRR_BAx3K8sQhUn_K0EM3bHv?usp=sharing)
+- [from Scratch model](https://colab.research.google.com/drive/1qq9KMy1zQutVUtCTO9Yrmt41x8cDoymL?usp=sharing)
